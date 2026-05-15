@@ -6,7 +6,7 @@ import product4 from '../Components/Images/product4.png'
 import product5 from '../Components/Images/product5.png'
 import product6 from '../Components/Images/product6.png'
 import furniture from '../Components/Images/furniture1.png'
-import furnitureText from '../Components/Images/furniture.png'
+import furnitureText from '../Components/Images/Furniture.png'
 
 const searchedProducts = [
   { id: 1, img: product1 },
